@@ -1,0 +1,193 @@
+:: StoryTitle
+Джаз
+
+
+:: StoryData
+{
+  "ifid": "91911A8F-3681-4F52-A380-AB6DE58C12D9",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "1",
+  "zoom": 1
+}
+
+
+:: 1 [1] {"position":"50,300","size":"100,100"}
+<img src="https://raw.githubusercontent.com/sofa974/PredmetyLN_Kiseleva/refs/heads/main/5355226286106206892.jpg">
+Всем привет! Сегодня сегодня мы вам расскажем как создать в LibreOffice Base базу данных. 
+//[[Начать->2]]//
+
+
+:: 10 {"position":"800,500","size":"100,100"}
+<img src='https://raw.githubusercontent.com/Makstein666/PredmetyLN_Mamalyga/refs/heads/main/5355226286106206874.jpg'>
+Для редактирования любых элементов в форме нажимаем правой кнопкой мыши по элементу и заходим в свойства элемента. 
+
+
+//[[Далее->11]]
+[[Вернуться назад->9]]//
+
+
+:: 11 {"position":"975,500","size":"100,100"}
+<img src='https://raw.githubusercontent.com/Makstein666/PredmetyLN_Mamalyga/refs/heads/main/5355226286106206884.jpg'>
+Чтобы создать кнопку необходимо взять инструмент для создания кнопки, который находится слева на панели
+<img src='https://raw.githubusercontent.com/Makstein666/PredmetyLN_Mamalyga/refs/heads/main/5355226286106206885.jpg'>
+//[[Далее->12]]
+[[Вернуться назад->10]]//
+
+
+:: 12 {"position":"1150,500","size":"100,100"}
+С помощью описанных шагов вы можете создать много различных баз. Удачи вам!
+//[[Вернуться->11]]
+[[Вернуться в начало->1]]//
+
+
+:: 2 [2] {"position":"225,300","size":"100,100"}
+<img
+src="https://raw.githubusercontent.com/sofa974/PredmetyLN_Kiseleva/refs/heads/main/5355226286106206844.jpg">
+Для того что бы создать базу , мы заходим в  LibreOffice Base . У нас открывается мастер для создания баз данных.
+<img
+src="https://raw.githubusercontent.com/sofa974/PredmetyLN_Kiseleva/refs/heads/main/5352737206529288699.jpg">
+
+//[[Далее->3]]
+[[Вернуться назад->1]]//
+
+
+:: 3 [3] {"position":"400,300","size":"100,100"}
+<img src="https://raw.githubusercontent.com/sofa974/PredmetyLN_Kiseleva/refs/heads/main/5352737206529288709.jpg">
+Затем у нас открывается  LibreOffice. В первом нашем шаге мы будем создавать таблицу. Для этого мы должны нажать на "Создать таблицу в режиме дизайна"
+
+//[[Далее->4]]
+[[Вернуться назад->2]]//
+
+
+:: 4 [4] {"position":"550,225","size":"100,100"}
+<img
+src="https://raw.githubusercontent.com/sofa974/PredmetyLN_Kiseleva/refs/heads/main/5355226286106206851.jpg">
+Добавляем названия столбцов, которые будут в таблице. На нашем примере значок ключа стоит у столбца под названием "Код Заказа", он является первичным ключом.Ниже в его свойствах указываем  автозаполнение. Тип поля для певричного ключа указываем "Целое".
+Для остальных столбцов указываем тип поля в зависимости от того что они подразумевают, текст, числа и др.
+//[[Далее->5]]
+[[Вернуться назад->3]]//
+
+
+:: 5 [5] {"position":"750,225","size":"100,100"}
+<img
+src="https://raw.githubusercontent.com/sofa974/PredmetyLN_Kiseleva/refs/heads/main/5352737206529288704.jpg">
+После того как мы задали название столбцов и первичный ключ в режиме дизайа и сохранили, далее мы заходим в нашу таблицу двойным кликом и указываем данные в ней.
+
+//[[Далее->6]]
+[[Вернуться назад->4]]//
+
+
+:: 6 [6] {"position":"925,300","size":"100,100"}
+<img
+src="https://raw.githubusercontent.com/sofa974/PredmetyLN_Kiseleva/refs/heads/main/5352737206529288726.jpg">
+Далее нам нужно сделать связи таблиц.
+Нажимаем сверху на панели "Сервис" > "Связи"
+Добавляем таблицы в редакторе связей. Чтобы сделать связи нажимаем название столбца в таблице и перетаскиваем на название другого.
+//[[Далее->7]]
+[[Вернуться назад->5]]//
+
+
+:: 7 [7] {"position":"175,500","size":"100,100"}
+<img
+src="https://raw.githubusercontent.com/sofa974/PredmetyLN_Kiseleva/refs/heads/main/5352737206529288711.jpg">
+Создание форм.
+
+
+//[[Далее->8]]
+[[Вернуться назад->6]]//
+
+
+:: 8 [8] {"position":"400,500","size":"100,100"}
+<img src="https://raw.githubusercontent.com/Makstein666/PredmetyLN_Mamalyga/refs/heads/main/5355226286106206858.jpg">
+Указываем таблицу для формы, переноси нужные поля в форму и нажимаем далее
+<img src="https://raw.githubusercontent.com/Makstein666/PredmetyLN_Mamalyga/refs/heads/main/5355226286106206859.jpg">
+Добавляем подформу и делаем также как в предыдущем шаге, если она необходима.
+<img
+src="https://raw.githubusercontent.com/Makstein666/PredmetyLN_Mamalyga/refs/heads/main/5355226286106206866.jpg">
+Выбираем как расположить элементы управления из выбранных.
+<img
+src="https://raw.githubusercontent.com/Makstein666/PredmetyLN_Mamalyga/refs/heads/main/5355226286106206867.jpg">
+Далее выбираем режим ввода данных.
+Можем запретить удаление, ввод и изменение, а также можем поставить галочку только на ввод даных.
+<img
+src="https://raw.githubusercontent.com/Makstein666/PredmetyLN_Mamalyga/refs/heads/main/5355226286106206868.jpg">
+Выбираем понравившийся стиль для формы и называем ее
+
+//[[Далее->9]]
+[[Вернуться назад->7]]//
+
+
+:: 9 [9] {"position":"600,500","size":"100,100"}
+<img src="https://raw.githubusercontent.com/Makstein666/PredmetyLN_Mamalyga/refs/heads/main/5355226286106206871.jpg">
+Мы создали формы
+<img src="https://raw.githubusercontent.com/Makstein666/PredmetyLN_Mamalyga/refs/heads/main/5355226286106206872.jpg">
+
+//[[Далее->10]]
+[[Вернуться назад->8]]//
+
+
+:: StoryStylesheet [stylesheet]
+tw-story {
+color: #FFFFFF;
+flex-direction: column-reverse;
+}
+
+tw-story[tags~="1"] {
+background-image:url("https://avatars.mds.yandex.net/i?id=bcad3e46aa679de4264c5506cbc8af93_l-5192496-images-thumbs&n=13");
+background-size:cover;
+  
+}
+
+tw-story[tags~="2"] {
+background-image:url("https://avatars.mds.yandex.net/i?id=bcad3e46aa679de4264c5506cbc8af93_l-5192496-images-thumbs&n=13");
+background-size:cover;
+}
+
+tw-story[tags~="3"] {
+background-image:url("https://avatars.mds.yandex.net/i?id=bcad3e46aa679de4264c5506cbc8af93_l-5192496-images-thumbs&n=13");
+background-size:cover;
+}
+
+
+tw-story[tags~="4"] {
+background-image:url("https://avatars.mds.yandex.net/i?id=bcad3e46aa679de4264c5506cbc8af93_l-5192496-images-thumbs&n=13");
+background-size:cover;
+}
+
+tw-story[tags~="5"] {
+background-image:url("https://avatars.mds.yandex.net/i?id=bcad3e46aa679de4264c5506cbc8af93_l-5192496-images-thumbs&n=13");
+background-size:cover;
+}
+
+tw-story[tags~="6"] {
+background-image:url("https://avatars.mds.yandex.net/i?id=bcad3e46aa679de4264c5506cbc8af93_l-5192496-images-thumbs&n=13");background-size:cover;
+}
+
+tw-story[tags~="7"] {
+background-image:url("https://avatars.mds.yandex.net/i?id=bcad3e46aa679de4264c5506cbc8af93_l-5192496-images-thumbs&n=13");
+background-size:cover;
+}
+
+tw-story[tags~="8"] {
+background-image:url("https://avatars.mds.yandex.net/i?id=bcad3e46aa679de4264c5506cbc8af93_l-5192496-images-thumbs&n=13");
+background-size:cover;
+}
+
+tw-story[tags~="9"] {
+background-image:url("https://avatars.mds.yandex.net/i?id=bcad3e46aa679de4264c5506cbc8af93_l-5192496-images-thumbs&n=13");
+background-size:cover;
+}
+
+tw-story[tags~="10"] {
+background:url("https://video-preview.s3.yandex.net/iiIXLAIAAAA.mp4");
+background-size:cover;
+}
+
+.photo {
+   height: 550px;
+   border-radius: 10px;
+   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+   margin: 0 10px;
+   display: flex;
+}
